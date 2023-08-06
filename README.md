@@ -9,9 +9,13 @@ After cleaning the date we visualized it using the matplotlib library in python
 We found the below details from our analysis.
 
 Top 10 job Tiles in 2023
+
 Top 10 average salaries by job title in 2023
+
 Salaries by employment types 
+
 Salaries by work experience 
+
 Salaries by work years
 
 ##### Screenshots of the analysis
