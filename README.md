@@ -18,6 +18,8 @@ Salaries by work experience
 
 Salaries by work years
 
+Documentation:-https://github.com/Jasir-yattoo/Data-science-salaries-EDA/blob/main/data-science-salaries-eda.ipynb
+
 ##### Screenshots of the analysis
 
 ![2f28e4a97554e4219b0b43928d19cf3ff5cf446c](https://github.com/Jasir-yattoo/Data-science-salaries-EDA/assets/104289719/a62caf62-f161-4ccf-acdd-b8837240c3d9)
